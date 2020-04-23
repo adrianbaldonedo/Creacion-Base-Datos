@@ -7,13 +7,13 @@
 
 ### Uso de las tablas
 3. Para ver la base de datos creada usamos el show database
-![captura10](C:\Users\adria\Desktop\dam\base\Creacion-Base-Datos\imagenes\captura10.jpg)
+![captura10](imagenes\captura10.jpg)
 
 
 4. Nos pasamos a la base de datos con el use naves_espaciales; y hacemos un show tables para ver las tablas creadas
-![captura11](C:\Users\adria\Desktop\dam\base\Creacion-Base-Datos\imagenes\captura11.jpg)
+![captura11](imagenes\captura11.jpg)
 
 
 5. Para ver el contenido de las tablas usaremos el desc y el nombre de las tablas.
-![captura12](C:\Users\adria\Desktop\dam\base\Creacion-Base-Datos\imagenes\captura12.jpg)
-![captura13](C:\Users\adria\Desktop\dam\base\Creacion-Base-Datos\imagenes\captura13.jpg)
+![captura12](imagenes\captura12.jpg)
+![captura13](imagenes\captura13.jpg)
