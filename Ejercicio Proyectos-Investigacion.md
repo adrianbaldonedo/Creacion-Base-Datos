@@ -10,6 +10,7 @@
 
 ### Uso de las tablas
 3. Una vez creadas todas las tablas y dadas de alta para ver que todo esta correctamente usaremos show database para ver que tenemos la base de datos creada nos pasamos con use Proyecto_Investigacion; a la base de datos y usamos show tables; para ver las tablas creadas
+
 ![captura6](imagenes/captura6.jpg)
 
 
